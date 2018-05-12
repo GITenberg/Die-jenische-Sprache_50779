@@ -1,10 +1,14 @@
 _repo: Die-jenische-Sprache_50779
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Günther, Louis
       gutenberg_agent_id: '46081'
       url: http://www.gutenberg.org/2009/agents/46081
+covers:
+- cover_type: archival
+  image_path: 50779-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Wittich, Engelbert
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '31581'
     url: http://www.gutenberg.org/2009/agents/31581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50779#Die-jenische-Sprache
 gutenberg_issued: '2015-12-28'
 gutenberg_type: Text
 identifiers:
